@@ -37,7 +37,6 @@ The assistance provided included:
 - Assisting with debugging compiler and runtime errors.
 - Suggesting improvements to code structure and readability.
 - Assisting with code annotation and documentation.
-- Assisting with the writing of the project commentary.
 
 ### Files where AI assistance was used
 
@@ -52,7 +51,7 @@ The following source files were developed with assistance from ChatGPT for expla
 
 ## Original Work
 
-The project design, implementation, integration into Unreal Engine, testing, debugging, GitHub repository management, media capture and final submission were completed by me.
+The project design, implementation, integration into Unreal Engine, testing, debugging, GitHub repository management, media capture, project commentary and final submission were completed by me.
 
 All AI-generated suggestions were reviewed, tested and modified where appropriate before being incorporated into the final project.
 
